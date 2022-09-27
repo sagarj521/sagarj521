@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar Jadhav</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarj521" alt="sagarj521" /></a> </p>
