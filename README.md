@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **nestjs**
 
-- 👨‍💻 All of my projects are available at [https://sagar-jadhav-portfolio.herokuapp.com](https://sagar-jadhav-portfolio.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://sagar-jadhav-portfolio.vercel.app](https://sagar-jadhav-portfolio.vercel.app)
 
 - 💬 Ask me about **react, angular, node, laravel**
 
 - 📫 How to reach me **sagarj521@gmail.com**
 
-- 📄 Know about my experiences [https://sagar-jadhav-portfolio.herokuapp.com](https://sagar-jadhav-portfolio.herokuapp.com)
+- 📄 Know about my experiences [https://sagar-jadhav-portfolio.vercel.app](https://sagar-jadhav-portfolio.vercel.app)
 
 - ⚡ Fun fact **Gym freak**
 
